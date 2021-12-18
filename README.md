@@ -4,7 +4,6 @@
 
 - Express.js
 - **Kafka.js & Apache Kafka**
-- Molecular
 
 ### Fluxo de dados
 
